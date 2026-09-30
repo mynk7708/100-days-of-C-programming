@@ -1,3 +1,4 @@
+// print prime number from 1 to n.
 #include <stdio.h>
 
 int main(){
